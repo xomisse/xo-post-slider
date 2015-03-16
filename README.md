@@ -1,0 +1,1 @@
+xo-post-slider
