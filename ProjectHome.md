@@ -1,0 +1,1 @@
+post slider for blogger showing most recent posts
